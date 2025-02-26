@@ -1,0 +1,15 @@
+export const users = [
+  { id: '1', username: 'alice.j', email: 'alice.johnson@example.com', firstName: 'Alice', lastName: 'Johnson', role: 'ADMIN' },
+  { id: '2', username: 'bob.s', email: 'bob.smith@example.com', firstName: 'Bob', lastName: 'Smith', role: 'USER' },
+  { id: '3', username: 'charlie.b', email: 'charlie.brown@example.com', firstName: 'Charlie', lastName: 'Brown', role: 'GUEST' },
+  { id: '4', username: 'david.w', email: 'david.wilson@example.com', firstName: 'David', lastName: 'Wilson', role: 'USER' },
+  { id: '5', username: 'eve.d', email: 'eve.davis@example.com', firstName: 'Eve', lastName: 'Davis', role: 'ADMIN' },
+  { id: '6', username: 'frank.m', email: 'frank.miller@example.com', firstName: 'Frank', lastName: 'Miller', role: 'GUEST' },
+  { id: '7', username: 'grace.l', email: 'grace.lee@example.com', firstName: 'Grace', lastName: 'Lee', role: 'USER' },
+  { id: '8', username: 'hank.g', email: 'hank.green@example.com', firstName: 'Hank', lastName: 'Green', role: 'ADMIN' },
+  { id: '9', username: 'ivy.w', email: 'ivy.white@example.com', firstName: 'Ivy', lastName: 'White', role: 'GUEST' },
+  { id: '10', username: 'jack.b', email: 'jack.black@example.com', firstName: 'Jack', lastName: 'Black', role: 'USER' },
+  { id: '11', username: 'jack.b', email: 'jack.black@example.com', firstName: 'Jack', lastName: 'Black', role: 'USER' },
+  { id: '12', username: 'jack.b', email: 'jack.black@example.com', firstName: 'Jack', lastName: 'Black', role: 'USER' },
+  { id: '13', username: 'jack.b', email: 'jack.black@example.com', firstName: 'Jack', lastName: 'Black', role: 'USER' },
+];
